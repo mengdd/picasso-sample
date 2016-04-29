@@ -1,3 +1,4 @@
+# Github Android ignore file
 # Built application files
 *.apk
 *.ap_
@@ -30,3 +31,14 @@ proguard/
 
 # Android Studio captures folder
 captures/
+
+# From Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.idea/
